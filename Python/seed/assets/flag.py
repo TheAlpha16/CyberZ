@@ -1,0 +1,1 @@
+FLAG = "cyberZ{n0th1ng_1n_c0mput1ng_1s_tru3_r4nd0m_4dd1ng_th1s_t0_4v01d_gu3ss1ng}"
