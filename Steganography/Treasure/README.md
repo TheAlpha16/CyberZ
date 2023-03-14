@@ -2,11 +2,16 @@
 
 
 ## prompt
-```
+```md
 The scroll with the flag is deep inside the chest. Walk properly to get the flag
 
 **PS**: you might need this **dagger** later
 ```
+
+<br>
+
+## files
+- treasure.jpg
 
 ![treasure.jpg](./assets/treasure.jpg)
 
@@ -18,7 +23,7 @@ No hints provided
 <br>
 
 ## solution
-The prompt and category suggest using binwalk on the given image.\\
+The prompt and category suggest using binwalk on the given image.
 
 ```bash
 $ binwalk --dd='.*' treasure.jpg
