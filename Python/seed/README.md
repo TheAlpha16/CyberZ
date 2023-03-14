@@ -4,11 +4,11 @@
 ## prompt
 
 ```md
-Every **seed** has it's own way
+Every seed has it's own way
 
 Retrieve the flag from the script below
 
-**Note**: flag is a python file, which was imported....it is not a module
+Note: flag is a python file, which was imported....it is not a module
 
 read [this](https://csatlas.com/python-import-file-module/) for more info
 ```
@@ -100,7 +100,7 @@ for i in range(length):
 
 The above snippet is finding where the index is in the shuffled list and add that character to flag.
 
-So here the fisrt number `0` is at `59`th index so the 59th character in the shuffled flag `c` is the zeroth character in the actual flag. flag becomes
+So here the first number `0` is at `59`th index so the 59th character in the shuffled flag `c` is the zeroth character in the actual flag. flag becomes
 
 ```
 c
