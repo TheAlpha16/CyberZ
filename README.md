@@ -16,6 +16,7 @@ Steganography
 - [Treasure](./Steganography/Treasure/)
 - [spectrum](./Steganography/spectrum/)
 - [strange](./Steganography/strange/)
+- [vision](./Steganography/vision/)
 
 Forensics
 
