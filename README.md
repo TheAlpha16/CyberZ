@@ -14,3 +14,9 @@ Python
 Steganography
 
 - [Treasure](./Steganography/Treasure/)
+- [spectrum](./Steganography/spectrum/)
+- [strange](./Steganography/strange/)
+
+Forensics
+
+- [dizzy](./Forensics/dizzy)
