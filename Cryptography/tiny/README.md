@@ -68,7 +68,7 @@ let $ a < b $
 
 if `a` and `b` are such that $ a < b $, then 
 
-```math
+```tex
 a mod b = a
 ```
 
@@ -98,11 +98,13 @@ c = m^e
 
 This means taking `e`th root on `c` produces the original message `m`.
 
-$ c ^ \frac{1}{e} = m $
+```txt
+c ^ 1/e = m
+```
 
-Since e is 3 here $ \sqrt[3]{c} $ should give the flag!!
+Since e is 3 here `e ^ 1/3` should give the flag!!
 
-This is called [Small e attack](q)
+This is called [Small e attack](https://youtu.be/fiR-0FmsSz4)
 
 Let's script it.
 
